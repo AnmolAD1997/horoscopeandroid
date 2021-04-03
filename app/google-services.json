@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "226086067840",
+    "firebase_url": "https://dissertation-horoscope.firebaseio.com",
+    "project_id": "dissertation-horoscope",
+    "storage_bucket": "dissertation-horoscope.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:226086067840:android:fdedc54176b072c4",
+        "android_client_info": {
+          "package_name": "com.example.horoscope"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIKH6-MEPBUQsofBJA3x348dkJX7Zu4M8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "226086067840-98flct1svf8jetjcbs89q7lp6o521l6r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

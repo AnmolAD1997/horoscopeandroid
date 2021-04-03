@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/horoscope"
+            android:icon="@drawable/ic_mail"
+            android:title="Horoscope" />
+
+        <item
+            android:id="@+id/comp_match"
+            android:icon="@drawable/ic_mail"
+            android:title="Compatibility Match" />
+
+        <item
+            android:id="@+id/property"
+            android:icon="@drawable/ic_mail"
+            android:title="Zodiac Characteristics" />
+
+        <item
+            android:id="@+id/notification"
+            android:icon="@drawable/ic_mail"
+            android:title="Notifications" />
+    </group>
+
+    <item android:title="Contact">
+
+        <menu>
+            <item
+                android:id="@+id/contact_us"
+                android:title="Contact Us" />
+
+            <item
+                android:id="@+id/about_us"
+                android:title="About Us" />
+
+
+
+        </menu>
+    </item>
+
+</menu>
